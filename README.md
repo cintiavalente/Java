@@ -1,6 +1,3 @@
-//# Java
-//Getting started with java
-
 import java.util.Scanner;
 
 public class TheFirst {
